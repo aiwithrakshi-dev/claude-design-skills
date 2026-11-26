@@ -1,0 +1,20 @@
+{
+  "name": "website-dev-motion-design",
+  "version": "1.0.0",
+  "description": "Motion Design (LottieFiles): 1 skill by LottieFiles (MIT). Timing, easing and choreography principles for any animation system. Packaged by Rakshith (@aiwithrakshi, MyDesignNexus) in website-dev-skills.",
+  "author": {
+    "name": "LottieFiles"
+  },
+  "homepage": "https://github.com/aiwithrakshi-dev/claude-design-skills",
+  "repository": "https://github.com/aiwithrakshi-dev/claude-design-skills",
+  "license": "MIT",
+  "keywords": [
+    "website",
+    "frontend",
+    "design",
+    "ui",
+    "ux",
+    "animation",
+    "animation and interaction"
+  ]
+}

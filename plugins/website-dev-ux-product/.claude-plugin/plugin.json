@@ -1,0 +1,20 @@
+{
+  "name": "website-dev-ux-product",
+  "version": "1.0.0",
+  "description": "Uxcel Product and UX Skills: 59 skills by Uxcel Lab (MIT). UX audits, component and screen patterns, and product management documents. Packaged by Rakshith (@aiwithrakshi, MyDesignNexus) in website-dev-skills.",
+  "author": {
+    "name": "Uxcel Lab"
+  },
+  "homepage": "https://github.com/aiwithrakshi-dev/claude-design-skills",
+  "repository": "https://github.com/aiwithrakshi-dev/claude-design-skills",
+  "license": "MIT",
+  "keywords": [
+    "website",
+    "frontend",
+    "design",
+    "ui",
+    "ux",
+    "animation",
+    "ux and product"
+  ]
+}

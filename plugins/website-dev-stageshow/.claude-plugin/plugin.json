@@ -1,0 +1,20 @@
+{
+  "name": "website-dev-stageshow",
+  "version": "1.0.0",
+  "description": "Stageshow (faux product UI): 1 skill by Benji Taylor (MIT). Fake-but-real-looking product UI for heroes, feature cards and animated cursor demos. Packaged by Rakshith (@aiwithrakshi, MyDesignNexus) in website-dev-skills.",
+  "author": {
+    "name": "Benji Taylor"
+  },
+  "homepage": "https://github.com/aiwithrakshi-dev/claude-design-skills",
+  "repository": "https://github.com/aiwithrakshi-dev/claude-design-skills",
+  "license": "MIT",
+  "keywords": [
+    "website",
+    "frontend",
+    "design",
+    "ui",
+    "ux",
+    "animation",
+    "marketing visuals"
+  ]
+}

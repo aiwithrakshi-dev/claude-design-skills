@@ -1,0 +1,221 @@
+{
+  "repo": "aiwithrakshi-dev/claude-design-skills",
+  "marketplace": "aiwithrakshi",
+  "bundle": "website-dev-skills",
+  "version": "1.0.0",
+  "packager": "Rakshith (@aiwithrakshi, MyDesignNexus)",
+  "plugins": [
+    {
+      "name": "website-dev-design-taste",
+      "title": "Design Taste",
+      "upstream": "Leonxlnx/taste-skill",
+      "author": "Leonxlnx",
+      "license": "MIT",
+      "category": "Design direction",
+      "best_for": "Landing pages and company sites that must not look AI-generated or templated.",
+      "samples": [
+        "Build a landing page for a Bengaluru coffee roastery. Use the design-taste-frontend skill and make it feel hand-made, not like a template.",
+        "Review this hero section and tell me what makes it look AI-generated, then fix it.",
+        "Redesign my portfolio homepage with one strong idea per section and real photography."
+      ]
+    },
+    {
+      "name": "website-dev-emil-motion",
+      "title": "Emil Kowalski: Design Engineering and Motion",
+      "upstream": "emilkowalski/skills",
+      "author": "Emil Kowalski",
+      "license": "MIT",
+      "category": "Animation and interaction",
+      "best_for": "Polished UI motion, gestures, Apple-style springs and animation reviews.",
+      "samples": [
+        "Animate this dropdown so it opens from the button, feels fast and can be interrupted.",
+        "/review-animations on src/components (finds motion that feels slow or wrong).",
+        "What is the bouncy effect called when a popover opens? (animation-vocabulary)"
+      ]
+    },
+    {
+      "name": "website-dev-gsap",
+      "title": "GSAP (official GreenSock skills)",
+      "upstream": "greensock/gsap-skills",
+      "author": "GreenSock",
+      "license": "MIT",
+      "category": "Animation and interaction",
+      "best_for": "Timelines, ScrollTrigger, pinning, SplitText and GSAP in React or Vue.",
+      "samples": [
+        "Add a GSAP ScrollTrigger section that pins the product image while three feature cards scroll past.",
+        "Convert these CSS keyframes into a GSAP timeline with proper cleanup in React (useGSAP).",
+        "My GSAP animation stutters on mobile. Find the cause and fix it."
+      ]
+    },
+    {
+      "name": "website-dev-framer-motion",
+      "title": "Framer Motion",
+      "upstream": "C-Jeril/framer-motion-skills",
+      "author": "C-Jeril (kuakua-app)",
+      "license": "MIT",
+      "category": "Animation and interaction",
+      "best_for": "React animation with motion components, layout animations, gestures and scroll.",
+      "samples": [
+        "Make this React card grid reorder with smooth shared-layout animation (layoutId).",
+        "Add a scroll-linked progress bar and parallax hero with useScroll and useTransform.",
+        "Build a swipe-to-dismiss notification with drag constraints."
+      ]
+    },
+    {
+      "name": "website-dev-motion-design",
+      "title": "Motion Design (LottieFiles)",
+      "upstream": "lottiefiles/motion-design-skill",
+      "author": "LottieFiles",
+      "license": "MIT",
+      "category": "Animation and interaction",
+      "best_for": "Timing, easing and choreography principles for any animation system.",
+      "samples": [
+        "Design the loading-to-success micro-interaction for a payment button, with timings and easing.",
+        "Plan the page transition choreography between my list view and detail view.",
+        "Apply Disney animation principles to this onboarding illustration sequence."
+      ]
+    },
+    {
+      "name": "website-dev-ui-polish",
+      "title": "UI Skills (ibelick)",
+      "upstream": "ibelick/ui-skills",
+      "author": "Julien Thibeaut (ibelick)",
+      "license": "MIT",
+      "category": "UI quality and review",
+      "best_for": "Fast clean-up passes, accessibility fixes, metadata/SEO tags and DESIGN.md files.",
+      "samples": [
+        "Run a baseline-ui pass on this page: fix spacing, hierarchy and typography only.",
+        "Fix the accessibility problems in this signup form (labels, focus, contrast, errors).",
+        "Create a DESIGN.md for my website from its current code."
+      ]
+    },
+    {
+      "name": "website-dev-interface-guidelines",
+      "title": "Vercel Web Interface Guidelines",
+      "upstream": "vercel-labs/web-interface-guidelines",
+      "author": "Vercel Labs",
+      "license": "MIT",
+      "category": "UI quality and review",
+      "best_for": "Checking UI code against Vercel's rules for accessibility, forms, focus, motion and performance.",
+      "samples": [
+        "Review app/page.tsx against the web interface guidelines and list every violation.",
+        "Check my forms against the guidelines and fix what fails.",
+        "Audit this navbar for keyboard, focus and touch-target problems."
+      ]
+    },
+    {
+      "name": "website-dev-ux-product",
+      "title": "Uxcel Product and UX Skills",
+      "upstream": "Uxcel-Lab/product-skills",
+      "author": "Uxcel Lab",
+      "license": "MIT",
+      "category": "UX and product",
+      "best_for": "UX audits, component and screen patterns, and product management documents.",
+      "samples": [
+        "Do a full design review of this checkout flow (usability, microcopy, dark patterns).",
+        "Design the pricing page for my SaaS with three plans.",
+        "Take my app idea from problem statement to a build-ready product spec."
+      ]
+    },
+    {
+      "name": "website-dev-oil-ui",
+      "title": "oil-ui",
+      "upstream": "oil-oil/oil-ui",
+      "author": "oil-oil",
+      "license": "MIT",
+      "category": "Design direction",
+      "best_for": "Exploring three visual directions side by side and reviewing UI with real screenshots.",
+      "samples": [
+        "Show me three different visual directions for this dashboard as a side-by-side HTML page.",
+        "Check my page against DESIGN.md and list any conflicts.",
+        "Refine the visual hierarchy of this settings screen using a real browser screenshot."
+      ]
+    },
+    {
+      "name": "website-dev-stageshow",
+      "title": "Stageshow (faux product UI)",
+      "upstream": "benjitaylor/skills",
+      "author": "Benji Taylor",
+      "license": "MIT",
+      "category": "Marketing visuals",
+      "best_for": "Fake-but-real-looking product UI for heroes, feature cards and animated cursor demos.",
+      "samples": [
+        "Make an animated product demo of my invoicing app: a cursor creates an invoice and sends it.",
+        "Build a bento grid of feature cards with mocked dashboard UI inside each card.",
+        "Create a hero illustration of a browser window showing my analytics dashboard."
+      ]
+    },
+    {
+      "name": "website-dev-dimensional-drawing",
+      "title": "Dimensional Drawing",
+      "upstream": "enesozturk/dimensional-drawing",
+      "author": "Enes Ozturk",
+      "license": "MIT",
+      "category": "Marketing visuals",
+      "best_for": "Apple-style monochrome spec sheets of a component, and a motion film of the sheet.",
+      "samples": [
+        "Make a dimensional drawing of my primary button component with all measurements.",
+        "Create a spec sheet (anatomy drawing) of this pricing card.",
+        "Turn that drawing into a 10-second motion film."
+      ]
+    },
+    {
+      "name": "website-dev-frontend-slides",
+      "title": "Frontend Slides",
+      "upstream": "zarazhangrui/frontend-slides",
+      "author": "Zara Zhang",
+      "license": "MIT",
+      "category": "Presentations",
+      "best_for": "Animated HTML presentations, from scratch or converted from PowerPoint.",
+      "samples": [
+        "Make a 10-slide animated HTML pitch deck for my AI automation agency.",
+        "Convert this PPTX into a web presentation with smooth transitions.",
+        "Help me find a visual style for my conference talk slides."
+      ]
+    },
+    {
+      "name": "website-dev-mengto-collection",
+      "title": "Meng To Collection (223 skills)",
+      "upstream": "MengTo/Skills",
+      "author": "Meng To",
+      "license": "MIT",
+      "category": "Web effects, 3D and creative coding",
+      "best_for": "Web design systems, scroll storytelling, WebGL/Three.js effects, illustrations, video and game dev.",
+      "samples": [
+        "Build a cinematic scroll-storytelling landing page with GSAP and Lenis.",
+        "Add a liquid-glass refraction effect to these buttons (refract-liquid-glass).",
+        "Draw a flat vector empty-state illustration of a developer fixing a bug (illustration-flat)."
+      ]
+    },
+    {
+      "name": "website-dev-21st",
+      "title": "21st.dev Skills",
+      "upstream": "21st-dev/skill + 21st-dev/magic-mcp",
+      "author": "21st.dev",
+      "license": "Apache-2.0 (21st-dev/skill) and ISC (21st-ui from 21st-dev/magic-mcp)",
+      "category": "Components",
+      "best_for": "Finding, installing and generating React/shadcn components from 21st.dev with the 21st CLI.",
+      "samples": [
+        "Find a pricing table component on 21st.dev that matches my site and install it.",
+        "Generate three hero section drafts with 21st AI and give me the code for the best one.",
+        "Review my navbar and suggest a better 21st.dev component for it."
+      ],
+      "note": "Needs a free 21st.dev account: run `npx @21st-dev/cli login` or create an API key at https://21st.dev/mcp."
+    },
+    {
+      "name": "website-dev-shadcn-mcp",
+      "title": "shadcn/ui MCP connector",
+      "upstream": "shadcn-ui/ui (official shadcn MCP server, run with npx)",
+      "author": "shadcn",
+      "license": "Configuration only (MIT, this repository); the shadcn CLI itself is MIT",
+      "category": "Components",
+      "best_for": "Letting Claude browse, search and install shadcn/ui components and registries.",
+      "samples": [
+        "Using shadcn, add a data table with sorting and pagination to my dashboard.",
+        "Show me the available shadcn components for forms and install the ones I need.",
+        "Install the calendar and date-picker components from shadcn."
+      ],
+      "note": "Runs `npx shadcn@latest mcp` locally, so it works in Claude Code and the Claude desktop app on a computer with Node.js 18+. It does not run in the claude.ai web app."
+    }
+  ]
+}

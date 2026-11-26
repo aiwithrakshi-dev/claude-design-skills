@@ -1,0 +1,20 @@
+{
+  "name": "website-dev-ui-polish",
+  "version": "1.0.0",
+  "description": "UI Skills (ibelick): 11 skills by Julien Thibeaut (ibelick) (MIT). Fast clean-up passes, accessibility fixes, metadata/SEO tags and DESIGN.md files. Packaged by Rakshith (@aiwithrakshi, MyDesignNexus) in website-dev-skills.",
+  "author": {
+    "name": "Julien Thibeaut (ibelick)"
+  },
+  "homepage": "https://github.com/aiwithrakshi-dev/claude-design-skills",
+  "repository": "https://github.com/aiwithrakshi-dev/claude-design-skills",
+  "license": "MIT",
+  "keywords": [
+    "website",
+    "frontend",
+    "design",
+    "ui",
+    "ux",
+    "animation",
+    "ui quality and review"
+  ]
+}

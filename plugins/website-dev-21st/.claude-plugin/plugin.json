@@ -1,0 +1,20 @@
+{
+  "name": "website-dev-21st",
+  "version": "1.0.0",
+  "description": "21st.dev Skills: 8 skills by 21st.dev (Apache-2.0). Finding, installing and generating React/shadcn components from 21st.dev with the 21st CLI. Packaged by Rakshith (@aiwithrakshi, MyDesignNexus) in website-dev-skills.",
+  "author": {
+    "name": "21st.dev"
+  },
+  "homepage": "https://github.com/aiwithrakshi-dev/claude-design-skills",
+  "repository": "https://github.com/aiwithrakshi-dev/claude-design-skills",
+  "license": "Apache-2.0",
+  "keywords": [
+    "website",
+    "frontend",
+    "design",
+    "ui",
+    "ux",
+    "animation",
+    "components"
+  ]
+}

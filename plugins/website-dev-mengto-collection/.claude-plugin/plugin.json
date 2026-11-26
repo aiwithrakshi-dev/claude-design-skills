@@ -1,0 +1,20 @@
+{
+  "name": "website-dev-mengto-collection",
+  "version": "1.0.0",
+  "description": "Meng To Collection (223 skills): 223 skills by Meng To (MIT). Web design systems, scroll storytelling, WebGL/Three.js effects, illustrations, video and game dev. Packaged by Rakshith (@aiwithrakshi, MyDesignNexus) in website-dev-skills.",
+  "author": {
+    "name": "Meng To"
+  },
+  "homepage": "https://github.com/aiwithrakshi-dev/claude-design-skills",
+  "repository": "https://github.com/aiwithrakshi-dev/claude-design-skills",
+  "license": "MIT",
+  "keywords": [
+    "website",
+    "frontend",
+    "design",
+    "ui",
+    "ux",
+    "animation",
+    "web effects, 3d and creative coding"
+  ]
+}

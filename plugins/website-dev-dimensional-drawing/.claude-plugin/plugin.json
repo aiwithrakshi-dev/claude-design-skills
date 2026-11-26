@@ -1,0 +1,20 @@
+{
+  "name": "website-dev-dimensional-drawing",
+  "version": "1.0.0",
+  "description": "Dimensional Drawing: 2 skills by Enes Ozturk (MIT). Apple-style monochrome spec sheets of a component, and a motion film of the sheet. Packaged by Rakshith (@aiwithrakshi, MyDesignNexus) in website-dev-skills.",
+  "author": {
+    "name": "Enes Ozturk"
+  },
+  "homepage": "https://github.com/aiwithrakshi-dev/claude-design-skills",
+  "repository": "https://github.com/aiwithrakshi-dev/claude-design-skills",
+  "license": "MIT",
+  "keywords": [
+    "website",
+    "frontend",
+    "design",
+    "ui",
+    "ux",
+    "animation",
+    "marketing visuals"
+  ]
+}

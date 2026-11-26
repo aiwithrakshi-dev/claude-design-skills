@@ -1,0 +1,20 @@
+{
+  "name": "website-dev-shadcn-mcp",
+  "version": "1.0.0",
+  "description": "shadcn/ui MCP connector: MCP connector by shadcn (Configuration). Letting Claude browse, search and install shadcn/ui components and registries. Packaged by Rakshith (@aiwithrakshi, MyDesignNexus) in website-dev-skills.",
+  "author": {
+    "name": "shadcn"
+  },
+  "homepage": "https://github.com/aiwithrakshi-dev/claude-design-skills",
+  "repository": "https://github.com/aiwithrakshi-dev/claude-design-skills",
+  "license": "Configuration",
+  "keywords": [
+    "website",
+    "frontend",
+    "design",
+    "ui",
+    "ux",
+    "animation",
+    "components"
+  ]
+}

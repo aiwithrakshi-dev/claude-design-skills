@@ -1,0 +1,20 @@
+{
+  "name": "website-dev-interface-guidelines",
+  "version": "1.0.0",
+  "description": "Vercel Web Interface Guidelines: 1 skill by Vercel Labs (MIT). Checking UI code against Vercel's rules for accessibility, forms, focus, motion and performance. Packaged by Rakshith (@aiwithrakshi, MyDesignNexus) in website-dev-skills.",
+  "author": {
+    "name": "Vercel Labs"
+  },
+  "homepage": "https://github.com/aiwithrakshi-dev/claude-design-skills",
+  "repository": "https://github.com/aiwithrakshi-dev/claude-design-skills",
+  "license": "MIT",
+  "keywords": [
+    "website",
+    "frontend",
+    "design",
+    "ui",
+    "ux",
+    "animation",
+    "ui quality and review"
+  ]
+}

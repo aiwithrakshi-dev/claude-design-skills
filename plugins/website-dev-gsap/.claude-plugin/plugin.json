@@ -1,0 +1,20 @@
+{
+  "name": "website-dev-gsap",
+  "version": "1.0.0",
+  "description": "GSAP (official GreenSock skills): 8 skills by GreenSock (MIT). Timelines, ScrollTrigger, pinning, SplitText and GSAP in React or Vue. Packaged by Rakshith (@aiwithrakshi, MyDesignNexus) in website-dev-skills.",
+  "author": {
+    "name": "GreenSock"
+  },
+  "homepage": "https://github.com/aiwithrakshi-dev/claude-design-skills",
+  "repository": "https://github.com/aiwithrakshi-dev/claude-design-skills",
+  "license": "MIT",
+  "keywords": [
+    "website",
+    "frontend",
+    "design",
+    "ui",
+    "ux",
+    "animation",
+    "animation and interaction"
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "name": "aiwithrakshi",
+  "description": "website-dev-skills by Rakshith (@aiwithrakshi, MyDesignNexus): 343 open-source skills for building websites with Claude.",
+  "owner": {
+    "name": "Rakshith",
+    "url": "https://github.com/aiwithrakshi-dev"
+  },
+  "plugins": [
+    {
+      "name": "website-dev-design-taste",
+      "source": "./plugins/website-dev-design-taste",
+      "description": "Design Taste: Landing pages and company sites that must not look AI-generated or templated.",
+      "version": "1.0.0",
+      "category": "Design direction"
+    },
+    {
+      "name": "website-dev-emil-motion",
+      "source": "./plugins/website-dev-emil-motion",
+      "description": "Emil Kowalski: Design Engineering and Motion: Polished UI motion, gestures, Apple-style springs and animation reviews.",
+      "version": "1.0.0",
+      "category": "Animation and interaction"
+    },
+    {
+      "name": "website-dev-gsap",
+      "source": "./plugins/website-dev-gsap",
+      "description": "GSAP (official GreenSock skills): Timelines, ScrollTrigger, pinning, SplitText and GSAP in React or Vue.",
+      "version": "1.0.0",
+      "category": "Animation and interaction"
+    },
+    {
+      "name": "website-dev-framer-motion",
+      "source": "./plugins/website-dev-framer-motion",
+      "description": "Framer Motion: React animation with motion components, layout animations, gestures and scroll.",
+      "version": "1.0.0",
+      "category": "Animation and interaction"
+    },
+    {
+      "name": "website-dev-motion-design",
+      "source": "./plugins/website-dev-motion-design",
+      "description": "Motion Design (LottieFiles): Timing, easing and choreography principles for any animation system.",
+      "version": "1.0.0",
+      "category": "Animation and interaction"
+    },
+    {
+      "name": "website-dev-ui-polish",
+      "source": "./plugins/website-dev-ui-polish",
+      "description": "UI Skills (ibelick): Fast clean-up passes, accessibility fixes, metadata/SEO tags and DESIGN.md files.",
+      "version": "1.0.0",
+      "category": "UI quality and review"
+    },
+    {
+      "name": "website-dev-interface-guidelines",
+      "source": "./plugins/website-dev-interface-guidelines",
+      "description": "Vercel Web Interface Guidelines: Checking UI code against Vercel's rules for accessibility, forms, focus, motion and performance.",
+      "version": "1.0.0",
+      "category": "UI quality and review"
+    },
+    {
+      "name": "website-dev-ux-product",
+      "source": "./plugins/website-dev-ux-product",
+      "description": "Uxcel Product and UX Skills: UX audits, component and screen patterns, and product management documents.",
+      "version": "1.0.0",
+      "category": "UX and product"
+    },
+    {
+      "name": "website-dev-oil-ui",
+      "source": "./plugins/website-dev-oil-ui",
+      "description": "oil-ui: Exploring three visual directions side by side and reviewing UI with real screenshots.",
+      "version": "1.0.0",
+      "category": "Design direction"
+    },
+    {
+      "name": "website-dev-stageshow",
+      "source": "./plugins/website-dev-stageshow",
+      "description": "Stageshow (faux product UI): Fake-but-real-looking product UI for heroes, feature cards and animated cursor demos.",
+      "version": "1.0.0",
+      "category": "Marketing visuals"
+    },
+    {
+      "name": "website-dev-dimensional-drawing",
+      "source": "./plugins/website-dev-dimensional-drawing",
+      "description": "Dimensional Drawing: Apple-style monochrome spec sheets of a component, and a motion film of the sheet.",
+      "version": "1.0.0",
+      "category": "Marketing visuals"
+    },
+    {
+      "name": "website-dev-frontend-slides",
+      "source": "./plugins/website-dev-frontend-slides",
+      "description": "Frontend Slides: Animated HTML presentations, from scratch or converted from PowerPoint.",
+      "version": "1.0.0",
+      "category": "Presentations"
+    },
+    {
+      "name": "website-dev-mengto-collection",
+      "source": "./plugins/website-dev-mengto-collection",
+      "description": "Meng To Collection (223 skills): Web design systems, scroll storytelling, WebGL/Three.js effects, illustrations, video and game dev.",
+      "version": "1.0.0",
+      "category": "Web effects, 3D and creative coding"
+    },
+    {
+      "name": "website-dev-21st",
+      "source": "./plugins/website-dev-21st",
+      "description": "21st.dev Skills: Finding, installing and generating React/shadcn components from 21st.dev with the 21st CLI.",
+      "version": "1.0.0",
+      "category": "Components"
+    },
+    {
+      "name": "website-dev-shadcn-mcp",
+      "source": "./plugins/website-dev-shadcn-mcp",
+      "description": "shadcn/ui MCP connector: Letting Claude browse, search and install shadcn/ui components and registries.",
+      "version": "1.0.0",
+      "category": "Components"
+    }
+  ]
+}
